@@ -1,1 +1,1 @@
-double* x = nullptr;
+double* x = 5;
